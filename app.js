@@ -16,6 +16,9 @@ app.get("/flyops", (req, res) =>
 app.get("/gh", (req, res) =>
     res.redirect("https://www.github.com/jaoord")
 );
+app.get("/links", (req, res) =>
+    res.redirect("https://app.raindrop.io/my/0")
+);
 
 
 const server = app.listen(port, () =>

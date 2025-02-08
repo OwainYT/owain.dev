@@ -1,16 +1,24 @@
 {
-    "name": "yogm.dev",
-    "version": "1.0.0",
-    "description": "website running at yogm.dev",
-    "main": "app.js",
-    "repository": "https://github.com/jaoord/yogm-dev",
-    "author": "jaoord",
-    "license": "",
-    "private": true,
-    "scripts": {
-      "start": "node app.js"
-    },
-    "dependencies": {
-      "express": "^5.0.0"
-    }
-  }
+  "name": "owain.dev",
+  "version": "1.0.0",
+  "description": "website running at owain.dev",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OwainYT/owain.dev.git"
+  },
+  "author": "OwainYT",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.0.1"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/OwainYT/owain.dev/issues"
+  },
+  "homepage": "https://github.com/OwainYT/owain.dev#readme"
+}

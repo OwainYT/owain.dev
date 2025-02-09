@@ -130,3 +130,4 @@ dist
 .pnp.*
 /iisnode
 iisnode/index.html
+/.vs/owain.dev/FileContentIndex
